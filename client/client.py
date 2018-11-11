@@ -467,4 +467,4 @@ app = Application(master=root)
 app.mainloop()
 
 #close the socket
-s.close()
+s.close() 
